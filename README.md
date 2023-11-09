@@ -1,2 +1,2 @@
-# Time-checker
+# Time checker
  I here a created a time checker.
